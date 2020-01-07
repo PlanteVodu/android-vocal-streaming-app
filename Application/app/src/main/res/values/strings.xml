@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Vocal</string>
+    <string name="title_activity_search">Search</string>
+    <string name="action_index">Action index</string>
+    <string name="action_speech">Action speech</string>
+    <string name="start">Start</string>
+    <string name="resume">Resume</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+
+    <string name="ip">192.168.0.25</string>
+    <string name="port_command_analyzer">5002</string>
+    <string name="port_ice">5005</string>
+    <string name="port_streaming">8181</string>
+</resources>
